@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [levipereira9](https://levipereira9-portifolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [levipereira9](https://levipereira9-portfolio.vercel.app/)
 
 - 📫 How to reach me **levi.pereira090@gmail.com**
 
