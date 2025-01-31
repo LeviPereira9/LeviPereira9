@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java**
 
-- 👨‍💻 Todos os meus projetos estão disponiveis em [levipereira9](https://levipereira9-portfolio.vercel.app/)
+- 👨‍💻 Todos os meus projetos estão disponiveis em [levipereira9](https://levipereira09-portfolio.vercel.app/)
 
 - 📫 Você pode me encontrar em **levi.pereira090@gmail.com**
 
