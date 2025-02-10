@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Levi</h1>
 <h3 align="center">Um estudante de ADS apaixonado pela programação.</h3>
 
-- 🌱 Atualmente estou aprendendo **Java**
+- 🌱 Atualmente estou aprendendo **PLN**
 
 - 👨‍💻 Todos os meus projetos estão disponiveis em [levipereira9](https://levipereira9-portfolio.vercel.app/)
 
