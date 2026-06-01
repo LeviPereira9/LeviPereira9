@@ -40,7 +40,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End
 ### Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" />
 </p>
 
 ### Ferramentas
