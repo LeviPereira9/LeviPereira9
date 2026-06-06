@@ -19,8 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End
 - Banco de Dados
 - Python
 
-🤖 Utilizo IA como ferramenta de produtividade para acelerar desenvolvimento, pesquisa e resolução de problemas.
-
 📈 Tenho interesse em:
 - Desenvolvimento Back-End
 - Arquitetura de Software
