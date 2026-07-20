@@ -32,7 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End
 ### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,python" />
 </p>
 
 ### Front-End
@@ -44,7 +44,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,python" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
 ---
